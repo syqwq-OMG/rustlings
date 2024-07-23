@@ -1,1 +1,1 @@
-/Users/syqwq-omg/syqwq-workspace/InfiniTensor/rustlings/target/debug/variables2: /Users/syqwq-omg/syqwq-workspace/InfiniTensor/rustlings/exercises/01_variables/variables2.rs
+/Users/syqwq-omg/syqwq-workspace/InfiniTensor/exam-grading/rustlings/target/debug/variables2: /Users/syqwq-omg/syqwq-workspace/InfiniTensor/exam-grading/rustlings/exercises/01_variables/variables2.rs

@@ -1,7 +1,18 @@
 DON'T EDIT THIS FILE!
 
-primitive_types6
+structs3
 
+intro1
+intro2
+variables1
+variables2
+variables3
+variables4
+variables5
+variables6
+functions1
+functions2
+functions3
 functions4
 functions5
 if1
@@ -13,3 +24,6 @@ primitive_types2
 primitive_types3
 primitive_types4
 primitive_types5
+primitive_types6
+structs1
+structs2
