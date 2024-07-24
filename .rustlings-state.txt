@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-structs3
+options2
 
 intro1
 intro2
@@ -25,5 +25,18 @@ primitive_types3
 primitive_types4
 primitive_types5
 primitive_types6
+vecs1
 structs1
 structs2
+structs3
+enums1
+enums2
+enums3
+strings1
+strings2
+strings3
+strings4
+modules1
+modules2
+modules3
+options1
