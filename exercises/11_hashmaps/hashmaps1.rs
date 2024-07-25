@@ -5,15 +5,17 @@
 // of all the fruits should be at least 5.
 
 use std::collections::HashMap;
-
+// #![allow(unused)]
 fn fruit_basket() -> HashMap<String, u32> {
     // TODO: Declare the hash map.
-    // let mut basket =
+    let mut basket =HashMap::new();
 
     // Two bananas are already given for you :)
     basket.insert(String::from("banana"), 2);
 
     // TODO: Put more fruits in your basket.
+    basket.insert(String::from("1banana"), 2);
+    basket.insert(String::from("2banana"), 2);
 
     basket
 }

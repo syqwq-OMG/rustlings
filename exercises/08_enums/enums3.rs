@@ -1,5 +1,4 @@
-use std::os::unix::raw::gid_t;
-
+#![allow(unused)]
 struct Point {
     x: u64,
     y: u64,
