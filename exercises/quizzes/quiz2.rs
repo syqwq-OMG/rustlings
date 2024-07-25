@@ -17,6 +17,7 @@
 //   the first element is the string, the second one is the command.
 // - The output element is going to be a vector of strings.
 
+#![allow(unused)]
 enum Command {
     Uppercase,
     Trim,
