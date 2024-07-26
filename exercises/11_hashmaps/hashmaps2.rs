@@ -7,7 +7,7 @@
 // more than 11 in total - we have a lot of mouths to feed. You are not allowed
 // to insert any more of the fruits that are already in the basket (Apple,
 // Mango, and Lyche).
-
+#![allow(unused)]
 use std::collections::HashMap;
 #[derive(Hash, PartialEq, Eq, Debug)]
 enum Fruit {
