@@ -1,3 +1,4 @@
+#![allow(unused)]
 use std::{sync::mpsc, thread, time::Duration};
 
 struct Queue {
